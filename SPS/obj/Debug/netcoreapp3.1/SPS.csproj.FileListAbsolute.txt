@@ -1,0 +1,13 @@
+M:\source\repos\SPS\SPS\bin\Debug\netcoreapp3.1\SPS.exe
+M:\source\repos\SPS\SPS\bin\Debug\netcoreapp3.1\SPS.deps.json
+M:\source\repos\SPS\SPS\bin\Debug\netcoreapp3.1\SPS.runtimeconfig.json
+M:\source\repos\SPS\SPS\bin\Debug\netcoreapp3.1\SPS.runtimeconfig.dev.json
+M:\source\repos\SPS\SPS\bin\Debug\netcoreapp3.1\SPS.dll
+M:\source\repos\SPS\SPS\bin\Debug\netcoreapp3.1\SPS.pdb
+M:\source\repos\SPS\SPS\obj\Debug\netcoreapp3.1\SPS.csprojAssemblyReference.cache
+M:\source\repos\SPS\SPS\obj\Debug\netcoreapp3.1\SPS.AssemblyInfoInputs.cache
+M:\source\repos\SPS\SPS\obj\Debug\netcoreapp3.1\SPS.AssemblyInfo.cs
+M:\source\repos\SPS\SPS\obj\Debug\netcoreapp3.1\SPS.csproj.CoreCompileInputs.cache
+M:\source\repos\SPS\SPS\obj\Debug\netcoreapp3.1\SPS.dll
+M:\source\repos\SPS\SPS\obj\Debug\netcoreapp3.1\SPS.pdb
+M:\source\repos\SPS\SPS\obj\Debug\netcoreapp3.1\SPS.genruntimeconfig.cache
